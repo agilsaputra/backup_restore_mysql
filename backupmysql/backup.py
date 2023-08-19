@@ -7,7 +7,7 @@ import subprocess
 db_name = 'ingest_data_terminal'
 
 # Backup directory
-backup_dir = '/home/gandalf/DataEngineer/PORTFOLIO-SQL/backupsql/'
+backup_dir = '/home/gandalf/DataEngineer/PORTFOLIO_SQL/backupsql/'
 
 # Current date and time
 timestamp = datetime.datetime.now().strftime('%Y-%m-%d-%H-%M')
